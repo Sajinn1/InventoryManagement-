@@ -1,0 +1,1 @@
+D:\Sajin Work\app de\Inventory-Management\Inventory-Management\Inventory-Management.csproj;x64
